@@ -1,3 +1,1 @@
-# tuf-on-ci-template
-
-This is a template for TUF repositories running [TUF-on-CI](https://github.com/theupdateframework/tuf-on-ci).
+### test repository for https://github.com/theupdateframework/tuf-on-ci/pull/80
